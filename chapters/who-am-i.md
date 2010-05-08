@@ -1,0 +1,18 @@
+Who am I?
+=========
+
+Hi, I am Joop. On the internet people know me as LaPingvino. But nowadays I use my real name a lot more on the internet as well. Since around my 15th I know I am autistic. I always knew I was different, but not how.
+
+Well, I was tested quite some years before and that test pointed out I am "Intelectual Gifted" with an IQ of around 130. Okay, that's a nice explaination for a lot of things and made that I got a lot of interesting stuff to work on and some special attention where needed at school. They enrolled me in a Spanish class at school they created especially for me and two other gifted kids (and I didn't like it too much) and tried to keep me engaged with the lessons at school in several ways.
+
+I started programming as a kid, after a remark that it would be cool to write computer software myself, and my father pointed me to the ways to do it. I started with QBasic, and at the secondary education I got in touch with some other whizzkids from two grades higher who did Pascal. That gave me a nice group of friends and a steady line of practice not only in Pascal, but also in web programming. I learned HTML, CSS and a tid-bit of JavaScript just because you always encounter it working with HTML, and I learned PHP just enough to be able to create some funny stuff.
+
+From a certain point, I concentrated more on mathematics than on programming, and saw programming more as play and maths as something useful to graduate in. But mostly I was just getting irritated about the tiresome process of writing software. My tools were sub-par, the languages were limitng instead of really enabling, and I liked more to think than to do. So some day I met Python, which tickled my interest for things I now know as functional programming, got exited about Lisp but didn't have a good project to exercise it on, then got to know Clojure and got the exercise I needed, and finally that got me to the job I have now.
+
+Now I program in Common Lisp at a wonderful company, and I love it.
+
+But getting there is not trivial, and a lot of roadblocks are still around. The point that I was practically from the beginning quite interested in my autism and soon after also in social skills definitely helped me further to this point. I want to write down the things about autism I know by now. And discover some new things while writing. I sincerely hope this will help other people on their way as well.
+
+Have fun reading!
+
+Joop Kiefte, now 21 years old
