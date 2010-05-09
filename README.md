@@ -1,15 +1,10 @@
-What is this?
-=============
+About the project
+=================
 
-This is a setup I made myself to be able to quickly create a book with Markdown, to worry about layout etc later.
+This is a personal project to write a book about autism. Although it's written by me and using my perspectives and experiences, it is here on github for a reason: I am really interested in the perspectives and experiences of other people around here, be it employers, employees, programmers, parents, brothers and sisters or whatever person related to autism.
 
-How to use it?
---------------
+I would be interested as well in people who can tell me more about Silicon Valley and autism there, how social stuff works out there etc. I think it can be a great illustration of the important point that autism is about working differently, not worse. Please fork and contribute to your liking.
 
-Simply edit the `start` and `stop` files to change the resulting book page, and `startc` and `stopc` to edit the html surrounding the chapters.
-Create a list of files in order of the chapters in an index file (example available in `exampleindex`) and create the html with `./publish exampleindex`.
+The content of this book will be CC-BY-3.0. If you are making contributions and you want me to be able to merge them in, please be clear about the licensing, and please don't bring me into trouble by licensing too restrictive (i.e. CC-0 is fine, CC-BY-NC I prefer not to handle; non-commercial is a fuzzy scary restriction for me).
 
-Organisation of your files
---------------------------
-
-As long as you use the correct path in the index-file, you can put your files in any configuration you want. And of course you can edit the publish-script to do even more wonderful things. Remember, this is just a basic setup for writing a book, it's not all you can get.
+That's it for now, have fun reading the horribly incomplete book for now :).
